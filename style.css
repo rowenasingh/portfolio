@@ -22,12 +22,13 @@ nav h1 {
   margin-bottom: 10px;
   margin-left: 0px;
   margin-right:0px;
-  color: white;
-  text-shadow: 
+  color: black;
+  //color: white;
+  /*text-shadow: 
     -1px -1px 0 #C54A68,
     1px -1px 0 #C54A68,
     -1px 1px 0 #C54A68,
-    3px 2px 0 #C54A68;
+    3px 2px 0 #C54A68;*/
   /*font-weight: bold;*/
 }
 
@@ -77,11 +78,11 @@ nav a {
 .home h2{
   font-size: 3em;
   font-weight: bold;
-  text-shadow: 
+  /*text-shadow: 
     -1px -1px 0 black,
     1px -1px 0 black,
     -1px 1px 0 black,
-    2px 2px 0 black;
+    2px 2px 0 black;*/
 }
 
 .home p {
