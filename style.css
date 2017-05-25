@@ -72,7 +72,8 @@ nav a {
   padding-bottom:5em;
   text-align: center;
   /*background-color: rgba(207,78,174,0.3)*/;
-  color:white;
+  //color:white;
+  color: black;
 }
 
 .home h2{
