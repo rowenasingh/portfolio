@@ -24,7 +24,7 @@ nav h1 {
   margin-right:0px;
   color: black;
   //color: white;
-  /*text-shadow: 
+  /*text-shadow:
     -1px -1px 0 #C54A68,
     1px -1px 0 #C54A68,
     -1px 1px 0 #C54A68,
@@ -40,7 +40,7 @@ nav {
 nav ul {
   display: flex;
   list-style-type: none;
-  justify-content: center; 
+  justify-content: center;
   margin: 0px;
   transform: translate(0, 20%);
   padding-top: 0px;
@@ -50,7 +50,7 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
   color: #714AC5;
-  display: block; 
+  display: block;
   padding: 10px;
   font-size: 1em;
   font-weight: bold;
@@ -79,7 +79,7 @@ nav a {
 .home h2{
   font-size: 3em;
   font-weight: bold;
-  /*text-shadow: 
+  /*text-shadow:
     -1px -1px 0 black,
     1px -1px 0 black,
     -1px 1px 0 black,
@@ -89,4 +89,19 @@ nav a {
 .home p {
   font-size: 1.5em;
   color:black;
+}
+
+.temp {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: 'Archivo', sans-serif;
+}
+
+#temp {
+  font-family: 'Old Standard TT', serif;
+  font-size: 3em;
+  font-style: italic;
 }
